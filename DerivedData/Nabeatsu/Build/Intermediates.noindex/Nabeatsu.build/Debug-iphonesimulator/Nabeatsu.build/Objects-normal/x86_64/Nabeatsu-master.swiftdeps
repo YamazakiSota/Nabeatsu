@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
-options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
-build_start_time: [1651160679, 370712995]
-build_end_time: [1651160680, 58148860]
-inputs:
-  "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/Nabeatsu/Nabeatsu/AppDelegate.swift": [1544430352, 0]
-  "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/Nabeatsu/Nabeatsu/ViewController.swift": [1651160591, 932013511]

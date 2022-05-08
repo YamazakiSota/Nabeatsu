@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-Nabeatsu in Nabeatsu, no dependencies
-Nabeatsu in Nabeatsu, no dependencies
