@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>D7A26280-2FD5-4C55-A5AB-F24065DB2667</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>D7A26280-2FD5-4C55-A5AB-F24065DB2667.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Nabeatsu-frbouaofmhccbcefpyfmjbhakspj</string>
+			<key>timeStartedRecording</key>
+			<real>673367712.51598203</real>
+			<key>timeStoppedRecording</key>
+			<real>673367713.40894198</real>
+			<key>title</key>
+			<string>Build target Nabeatsu</string>
+			<key>uniqueIdentifier</key>
+			<string>D7A26280-2FD5-4C55-A5AB-F24065DB2667</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
